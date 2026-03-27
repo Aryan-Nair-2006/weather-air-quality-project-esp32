@@ -38,3 +38,38 @@ An IoT-based environmental monitoring system that measures temperature, humidity
    - Red LED turns ON
    - Telegram alert is sent to user
 6. User can request data using Telegram command `/data`
+
+## Project Type
+Group Project
+
+## My Contribution
+- Handled hardware integration using ESP32
+- Connected and configured all sensors (MQ4, MQ135, DHT11, BMP085)
+- Interfaced hardware components with Arduino IDE code
+- Assisted in testing and debugging system functionality
+
+## Work Completed
+- ESP32 hardware setup completed
+- Sensors successfully interfaced
+- WiFi connectivity established
+- Telegram bot integrated
+- Real-time monitoring implemented
+- Sudden spike detection logic implemented
+
+## Future Improvements
+- Improve gas sensor calibration accuracy
+- LED alert system implementation
+- Implement cloud-based data storage
+- Optimize power consumption
+
+## Cost Analysis
+Approximate total cost: ₹1330
+
+## References
+- https://randomnerdtutorials.com
+- https://arduino.cc
+- https://iotdesignpro.com
+- https://lastminuteengineers.com
+
+## Author
+Aryan
