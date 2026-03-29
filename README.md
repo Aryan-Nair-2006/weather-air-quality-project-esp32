@@ -72,7 +72,7 @@ Approximate total cost: ₹1330
 - https://lastminuteengineers.com
 
 ## Report
-[Download Report](docs/weather_station_project_review.pdf)
+[Download Report](docs-report/weather_station_project_review.pdf)
 
 ## Author
 Aryan
